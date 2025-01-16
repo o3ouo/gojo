@@ -1,15 +1,13 @@
 {
   "files": {
     "main.css": "/gojo/static/css/main.e6c13ad2.css",
-    "main.js": "/gojo/static/js/main.c59d977b.js",
-    "static/js/488.b378a3c7.chunk.js": "/gojo/static/js/488.b378a3c7.chunk.js",
+    "main.js": "/gojo/static/js/main.f01c8e97.js",
     "index.html": "/gojo/index.html",
     "main.e6c13ad2.css.map": "/gojo/static/css/main.e6c13ad2.css.map",
-    "main.c59d977b.js.map": "/gojo/static/js/main.c59d977b.js.map",
-    "488.b378a3c7.chunk.js.map": "/gojo/static/js/488.b378a3c7.chunk.js.map"
+    "main.f01c8e97.js.map": "/gojo/static/js/main.f01c8e97.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.c59d977b.js"
+    "static/js/main.f01c8e97.js"
   ]
 }
